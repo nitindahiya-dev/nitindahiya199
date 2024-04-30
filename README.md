@@ -38,7 +38,8 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - 💬 Ask me about anything, I love to answer!
-- :thinking: I’m currently open for a new `job opportunity`, Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nitin-dahiya/) 🏆.
+- :thinking: I’m currently open for a new `job opportunity`.
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/nitin-dahiya/) 🏆.
 <br>
 
 
